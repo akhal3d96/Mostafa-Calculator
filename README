@@ -1,0 +1,34 @@
+What is Quafios?
+====================
+Quafios is an open-source operating system for personal computers written
+in C. It is a fully integrated operating system with its own kernel.
+It is an educational operating system intending to help programmers
+who want to learn about operating system design and implementation.
+
+Quafios helps programmers throughout the project documentation which
+describes every bit in Quafios source code so that PC programmers not only
+can understand how things go but also learn how they can implement basic
+operating system designs by themselves. It also explains the most topics
+related to operating system development.
+
+You can get source code and documents from the project's official
+web-site, more information can be found in "Contact Us" section in this
+file.
+
+License:
+===========
+Quafios is licensed under GNU General Public License 3. For more details,
+refer to "COPYING" file.
+
+Installation:
+==============
+Installation guidelines can be found in the "INSTALL" file.
+
+File Manifest:
+================
+Refer to "MANIFEST" file.
+
+Contact Us:
+==============
+Visit us at the official website of Quafios:
+   http://www.quafios.com
